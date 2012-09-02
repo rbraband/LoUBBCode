@@ -63,3 +63,5 @@ Making the image clickable (in this case linking to the original image)
 <h3>Credits</h3>
 <p>
 Special thanks to Ben Alman http://benalman.com/projects/javascript-emotify</p>
+<h3>Userscript</h3>
+<p>http://userscripts.org/scripts/show/134067</p>
